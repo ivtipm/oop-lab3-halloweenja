@@ -1,0 +1,55 @@
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\obj\Debug\ChatBot.MainForm.resources
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\obj\Debug\ChatBot.LoginForm.resources
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CopyComplete
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\gukov\Desktop\CB\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\obj\Debug\ChatBot.MainForm.resources
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\obj\Debug\ChatBot.LoginForm.resources
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\obj\Debug\ChatBot.csproj.CopyComplete
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\horfa\OneDrive\Рабочий стол\ChatBot — копия\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\obj\Debug\ChatBot.MainForm.resources
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\obj\Debug\ChatBot.LoginForm.resources
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\obj\Debug\ChatBot.csproj.CopyComplete
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\horfa\OneDrive\Рабочий стол\СдуфтСщву\ChatBot — копия\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\obj\Debug\ChatBot.MainForm.resources
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\obj\Debug\ChatBot.LoginForm.resources
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\obj\Debug\ChatBot.csproj.CopyComplete
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-3-BOT-\ChatBot\obj\Debug\ChatBot.pdb
